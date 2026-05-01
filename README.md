@@ -22,6 +22,7 @@ This repository showcases my skills, projects, and ongoing progress in Data Anal
   - Excel
   - Tableau
   - Power BI
+  - Notion
   - Data cleaning
   - Data visualization
   - Statistical analysis
