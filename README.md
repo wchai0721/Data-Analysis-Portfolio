@@ -21,6 +21,7 @@ This repository showcases my skills, projects, and ongoing progress in Data Anal
   - SQL
   - Excel
   - Tableau
+    - GreenTech Recycling Operations Dashboard
   - Power BI
   - Notion
   - R
@@ -49,9 +50,21 @@ This repository showcases my skills, projects, and ongoing progress in Data Anal
 
 **Results:** Analysis revealed that device and behavioral interventions dominate the SCI trial landscape, while biological interventions (including cell-based therapies) represent only 4.4% of registered trials despite growing preclinical interest. Phase progression analysis showed that only ~2% of phased trials reach Phase 3, indicating a steep translational attrition funnel. Trial volume has grown steadily since 2003 with a notable spike in 2025.
 
-### Project 2: Data Visualization
+### GreenTech Recycling Operations Dashboard
 
-Brief description of the project.
+**Code:** not applicable (Tableau workbook — .twbx)
+
+**Data source:** Simulated operational data modeled from client ERP, time-tracking, and financial records.
+
+**Goal:** To surface operational bottlenecks, labor inefficiencies, and financial performance gaps across an electronics recycling workflow, and to replace manual Excel-based reporting with a dynamic, decision-ready dashboard.
+
+**Description:** This project was completed as part of a Carlson Consulting Enterprise (CCE) engagement through the University of Minnesota's Carlson Analytics Lab. Working directly with the client's CFO, the team mapped the full operational workflow from receiving through teardown and resale, identified key performance indicators across four process stages (Receiving, Sort, Testing/Repair, and Teardown), and designed a three-dashboard Tableau prototype to replace fragmented manual reporting. The project involved process mapping, stakeholder interviews, KPI prioritization, dashboard wireframing, and data pipeline planning across three source systems. The Tableau build used five structured data tables with inter-sheet relationships, calculated fields for fail rate, throughput, and budget variance, and global filter actions to enable cross-dashboard interactivity.
+
+**Technology:** Tableau Desktop, Microsoft Excel, openpyxl.
+
+**Skills:** Process mapping, KPI design, dashboard design, data modeling, stakeholder communication, Excel data pipeline structuring, Tableau relationships and calculated fields.
+
+**Results:** Analysis revealed that Testing/Repair is the primary operational bottleneck, accounting for the highest labor hours across all four channels. The testing fail rate averaged 51.4%, indicating significant upstream sorting inefficiencies. Financial analysis showed that the client averaged a net loss of $51,616 annually since 2011, with a catastrophic outlier loss of $707,431 in 2019 (6x any other year), and that contributions and grants have been essential to keeping the organization net-positive in most years. The dashboard framework positions the client to shift from intuition-based to data-driven decision making ahead of their self-sustainability goal.
 
 ## Education
 
