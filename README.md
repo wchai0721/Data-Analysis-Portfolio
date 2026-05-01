@@ -23,12 +23,11 @@ This repository showcases my skills, projects, and ongoing progress in Data Anal
 
 **Description:** The project analyzed 939 registered clinical trials for spinal cord injury using the AACT (Aggregate Analysis of ClinicalTrials.gov) database — a publicly available PostgreSQL database maintained by the Clinical Trials Transformation Initiative. The project involved connecting to a live remote database, querying and joining multiple relational tables, performing exploratory data analysis across trial volume, intervention categories, and phase distribution, and visualizing trends over a 35-year registration period (1989–2026).
 
-**Tools:** Python, PostgreSQL, pandas, seaborn
+**Technology:** Python, Pandas, SQLAlchemy, Seaborn, Matplotlib, PostgreSQL.
 
 **Skills:** SQL querying, relational database joins, data cleaning, exploratory data analysis, data visualization.
 
-**Technology:** Python, Pandas, SQLAlchemy, Seaborn, Matplotlib, PostgreSQL.
-Results: Analysis revealed that device and behavioral interventions dominate the SCI trial landscape, while biological interventions (including cell-based therapies) represent only 4.4% of registered trials despite growing preclinical interest. Phase progression analysis showed that only ~2% of phased trials reach Phase 3, indicating a steep translational attrition funnel. Trial volume has grown steadily since 2003 with a notable spike in 2025.
+**Results:** Analysis revealed that device and behavioral interventions dominate the SCI trial landscape, while biological interventions (including cell-based therapies) represent only 4.4% of registered trials despite growing preclinical interest. Phase progression analysis showed that only ~2% of phased trials reach Phase 3, indicating a steep translational attrition funnel. Trial volume has grown steadily since 2003 with a notable spike in 2025.
 
 ### Project 2: Data Visualization
 
