@@ -53,9 +53,6 @@ Brief description of the project.
 
 ## Education
 
-**University of Minnesota** — Department of Neurosurgery, Medical School
-Researcher, Parr Lab
-
 **University of Minnesota — Carlson School of Management** Master of Business Administration — Medical Industry Leadership & Business Analytics (May 2023)
 
 **University of Cincinnati — College of Medicine** Master of Science — Developmental Biology & Transfusion Medicine (May 2014)
