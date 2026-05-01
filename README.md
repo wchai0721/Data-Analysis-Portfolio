@@ -62,4 +62,4 @@ Brief description of the project.
 ## Contact
 
 - LinkedIn: [@wenchai](https://www.linkedin.com/in/wenchai/)
-- Email: [wchai0721@gmail.com](wchai0721@gmail.com)
+- Email: [wchai0721@gmail.com](mailto:wchai0721@gmail.com)
