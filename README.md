@@ -16,7 +16,7 @@ This repository showcases my skills, projects, and ongoing progress in Data Anal
 - [About](#about)
 - [Projects](#projects)
   - Python + SQL
-    - [SCI Clinical Trial Landscape Analysis]([### Spinal Cord Injury Clinical Trial Landscape Analysis)](https://github.com/wchai0721/Data-Analysis-Portfolio/blob/main/README.md#spinal-cord-injury-clinical-trial-landscape-analysis)
+    - [SCI Clinical Trial Landscape Analysis](https://github.com/wchai0721/Data-Analysis-Portfolio/blob/main/README.md#spinal-cord-injury-clinical-trial-landscape-analysis)
   - Python
   - SQL
   - Excel
