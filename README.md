@@ -16,7 +16,7 @@ This repository showcases my skills, projects, and ongoing progress in Data Anal
 - [About](#about)
 - [Projects](#projects)
   - Python + SQL
-    - [SCI Clinical Trial Landscape Analysis](#sci-clinical-trial-landscape-analysis)
+    - [SCI Clinical Trial Landscape Analysis](### Spinal Cord Injury Clinical Trial Landscape Analysis)
   - Python
   - SQL
   - Excel
