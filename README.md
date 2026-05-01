@@ -11,6 +11,22 @@ My CV is available as a PDF.
 
 This repository showcases my skills, projects, and ongoing progress in Data Analytics and Data Science.
 
+## Table of Contents
+
+- [About](#about)
+- [Projects](#projects)
+  - [Python + SQL](#python--sql)
+    - [SCI Clinical Trial Landscape Analysis](#sci-clinical-trial-landscape-analysis)
+  - Python
+  - SQL
+  - Excel
+  - Tableau
+  - Power BI
+  - Data cleaning
+  - Data visualization
+- [Education](#education)
+- [Contact](#contact)
+
 ## Projects
 
 ### Spinal Cord Injury Clinical Trial Landscape Analysis
@@ -33,20 +49,21 @@ This repository showcases my skills, projects, and ongoing progress in Data Anal
 
 Brief description of the project.
 
-## Skills
+## Education
 
-- Python
+**University of Minnesota** — Department of Neurosurgery, Medical School
+Researcher, Parr Lab
 
-- SQL
+**University of Minnesota — Carlson School of Management** Master of Business Administration — Medical Industry Leadership & Business Analytics (May 2023)
 
-- Excel
+**University of Cincinnati — College of Medicine** Master of Science — Developmental Biology & Transfusion Medicine (May 2014)
 
-- Tableau
-  
-- Power BI
+**University of Minnesota — College of Biological Sciences** Bachelor of Science — Biochemistry (May 2012)
 
-- Data cleaning
+## Contact
 
-- Data visualization
+- LinkedIn: [@wenchai](https://www.linkedin.com/in/wenchai/)
+- Email: [wchai0721@gmail.com](wchai0721@gmail.com)
+
 
 - Statistical analysis
