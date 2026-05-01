@@ -17,7 +17,7 @@ This repository showcases my skills, projects, and ongoing progress in Data Anal
 
 **Code:** [sci_analysis.ipynb](https://github.com/wchai0721/Projects/blob/8766daa737c4918d22b2f354da6cd209d54129d8/sci_analysis.ipynb)
 
-**Data source:** [AACT](aact.ctti-clinicaltrials.org)
+**Data source:** [AACT](https://aact.ctti-clinicaltrials.org)
 
 **Goal:** To identify structural patterns in SCI trial design, intervention types, and phase progression, and to surface translational bottlenecks in the clinical pipeline.
 
