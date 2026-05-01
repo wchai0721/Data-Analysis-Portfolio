@@ -15,7 +15,7 @@ This repository showcases my skills, projects, and ongoing progress in Data Anal
 
 - [About](#about)
 - [Projects](#projects)
-  - [Python + SQL](#python--sql)
+  - Python + SQL
     - [SCI Clinical Trial Landscape Analysis](#sci-clinical-trial-landscape-analysis)
   - Python
   - SQL
@@ -24,6 +24,7 @@ This repository showcases my skills, projects, and ongoing progress in Data Anal
   - Power BI
   - Data cleaning
   - Data visualization
+  - Statistical analysis
 - [Education](#education)
 - [Contact](#contact)
 
@@ -64,6 +65,3 @@ Researcher, Parr Lab
 
 - LinkedIn: [@wenchai](https://www.linkedin.com/in/wenchai/)
 - Email: [wchai0721@gmail.com](wchai0721@gmail.com)
-
-
-- Statistical analysis
