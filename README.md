@@ -63,6 +63,7 @@ Brief description of the project.
 ## Certificates
 
 **[Programming for Everybody](https://coursera.org/share/c8fc2695991231056b55efb7a8f936c8)** (Coursera - University of Michigan)
+
 **[SQL for Beginner Data Analysis](https://www.udemy.com/certificate/UC-70dcbf78-a39a-4d88-a8a4-804af89e38e6/)** (Udemy)
 
 ## Contact
