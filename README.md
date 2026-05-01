@@ -15,7 +15,7 @@ This repository showcases my skills, projects, and ongoing progress in Data Anal
 
 ### Spinal Cord Injury Clinical Trial Landscape Analysis
 
-**Code:** [sci_analysis.ipynb](sci_analysis.ipynb)
+**Code:** sci_analysis.ipynb
 
 **Data source:** [AACT](aact.ctti-clinicaltrials.org)
 
