@@ -17,6 +17,7 @@ This repository showcases my skills, projects, and ongoing progress in Data Anal
 - [Projects](#projects)
   - Python + SQL
     - [SCI Clinical Trial Landscape Analysis](https://github.com/wchai0721/Data-Analysis-Portfolio/blob/main/README.md#spinal-cord-injury-clinical-trial-landscape-analysis)
+    - Oncology In Vitro Clinical Trial Landscape Analysis
   - Python
   - SQL
   - Excel
@@ -49,6 +50,22 @@ This repository showcases my skills, projects, and ongoing progress in Data Anal
 **Skills:** SQL querying, relational database joins, data cleaning, exploratory data analysis, data visualization.
 
 **Results:** Analysis revealed that device and behavioral interventions dominate the SCI trial landscape, while biological interventions (including cell-based therapies) represent only 4.4% of registered trials despite growing preclinical interest. Phase progression analysis showed that only ~2% of phased trials reach Phase 3, indicating a steep translational attrition funnel. Trial volume has grown steadily since 2003 with a notable spike in 2025.
+
+### Oncology In Vitro Clinical Trial Landscape Analysis
+
+**Code:** [oncology_landscape.ipynb](https://github.com/wchai0721/Projects/blob/main/oncology_landscape.ipynb)
+
+**Data source:** [AACT](https://aact.ctti-clinicaltrials.org)
+
+**Goal:** To map the global oncology in vitro clinical trial landscape, identify competitive positioning patterns across sponsors and geographies, and surface intervention trends relevant to product strategy at a preclinical CRO.
+
+**Description:** The project analyzed registered clinical trials at the intersection of oncology and in vitro research using the AACT (Aggregate Analysis of ClinicalTrials.gov) database — a publicly available PostgreSQL database maintained by the Clinical Trials Transformation Initiative. The cohort was defined by dual filtering: oncology-related conditions (cancer, tumor, carcinoma, neoplasm, leukemia, lymphoma) combined with in vitro methodology keywords (cell line, organoid, spheroid, xenograft, ex vivo). The project involved connecting to a live remote database, querying and joining multiple relational tables, and performing exploratory data analysis across trial volume, sponsor landscape, phase distribution, intervention types, and geographic distribution.
+
+**Technology:** Python, Pandas, SQLAlchemy, Seaborn, Matplotlib, PostgreSQL.
+
+**Skills:** SQL querying, relational database joins, cohort definition, exploratory data analysis, data visualization, competitive intelligence analysis.
+
+**Results:** Analysis revealed that academic and government institutions dominate the oncology in vitro trial landscape (70.1% other academic, 23.9% NIH), with industry sponsors accounting for only 5.9% of registered trials. Biological and drug interventions lead equally (~229 and 225 trials respectively), with biological trials showing the strongest post-2015 growth trajectory driven by immunotherapy and cell therapy pipelines. Trial volume tripled between 2015 and 2023, peaking at 61 registrations. The US and China account for over half of all trial activity, with emerging Asia-Pacific presence in South Korea, Singapore, and Taiwan.
 
 ### GreenTech Recycling Operations Dashboard
 
