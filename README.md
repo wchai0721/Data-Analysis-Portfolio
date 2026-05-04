@@ -20,12 +20,13 @@ This repository showcases my skills, projects, and ongoing progress in Data Anal
     - [Oncology In Vitro Clinical Trial Landscape Analysis](https://github.com/wchai0721/Data-Analysis-Portfolio/blob/main/README.md#oncology-in-vitro-clinical-trial-landscape-analysis)
   - Python + Web
     - [Dopamine Menu Generator](https://github.com/wchai0721/Data-Analysis-Portfolio/blob/main/README.md#dopamine-menu-generator)
-  - SQL
+  - Python + SQL + Tableau
+    - [Pittsburgh Trauma Medical Center — ED Shift Analytics](url)
+ - Excel + Tableau
+    - [GreenTech Recycling Operations Dashboard](https://github.com/wchai0721/Data-Analysis-Portfolio/blob/main/README.md#greentech-recycling-operations-dashboard)
   - Excel
     - [iPSC Cell Line Bank – Product Pricing & Revenue Model](https://github.com/wchai0721/Data-Analysis-Portfolio/blob/main/README.md#ipsc-cell-line-bank--product-pricing--revenue-model)
     - [iPSC Cell Line Bank – New Product Introduction (NPI) Launch Tracker](https://github.com/wchai0721/Data-Analysis-Portfolio/blob/main/README.md#ipsc-cell-line-bank--new-product-introduction-npi-launch-tracker)
-  - Tableau
-    - [GreenTech Recycling Operations Dashboard](https://github.com/wchai0721/Data-Analysis-Portfolio/blob/main/README.md#greentech-recycling-operations-dashboard)
   - Power BI
   - Notion
   - R
@@ -86,6 +87,38 @@ This repository showcases my skills, projects, and ongoing progress in Data Anal
 
 **Results:** The tool covers 25+ activities across 7 categories (Movement, Creative, Social, Rest, Learning, Meaning, Sensory), with each recommendation linked to a peer-reviewed mechanism and a specific, actionable tip. The web interface allows real-time filtering by mood, time, energy, and preferred category, returning a ranked menu in under one second.
 
+### Pittsburgh Trauma Medical Center — ED Shift Analytics
+
+**Code:** pitt-ed-analytics (GitHub)
+
+**Dashboard:** [Tableau Public](https://public.tableau.com/shared/QP3QXGT9Q?:display_count=n&:origin=viz_share_link)
+
+**Goal:** To model emergency department patient flow across a 15-hour trauma shift and surface operational insights around wait times, care bottlenecks, staff load, and disposition outcomes.
+
+**Description:** This project simulates a realistic ED shift at a Level 1 trauma center, inspired by the TV series The Pitt. Using a synthetic dataset of 180 patients generated with Python and Faker, the project involved designing a relational schema across six tables, loading data into PostgreSQL, writing analytical SQL queries using window functions and CTEs, organizing transformations as dbt models with staging and mart layers, and visualizing findings in an interactive Tableau Public dashboard.
+
+**Technology:** Python, Faker, PostgreSQL, dbt, Tableau Public.
+
+**Skills:** Relational schema design, SQL window functions, CTEs, data modeling, dbt transformation layer, dashboard design.
+
+**Results:** ESI 4 and 5 patients waited 40+ minutes on average for a provider while ESI 1 patients were seen in under 5 minutes. Imaging was identified as the single largest care bottleneck at approximately 88 minutes average. Attending load peaked mid-shift between hours 10 and 16, with Dr. Dana Evans carrying the highest sustained patient volume. ESI 1 and 2 patients were predominantly admitted to the ICU or deceased, while ESI 4 and 5 patients were mostly discharged or left without being seen.
+
+### GreenTech Recycling Operations Dashboard
+
+**File:** Excel here, Tableau link here
+
+**Data source:** Simulated operational data modeled from client ERP, time-tracking, and financial records.
+
+**Goal:** To surface operational bottlenecks, labor inefficiencies, and financial performance gaps across an electronics recycling workflow, and to replace manual Excel-based reporting with a dynamic, decision-ready dashboard.
+
+**Description:** This project was completed as part of a Carlson Consulting Enterprise (CCE) engagement through the University of Minnesota's Carlson Analytics Lab. Working directly with the client's CFO, the team mapped the full operational workflow from receiving through teardown and resale, identified key performance indicators across four process stages (Receiving, Sort, Testing/Repair, and Teardown), and designed a three-dashboard Tableau prototype to replace fragmented manual reporting. The project involved process mapping, stakeholder interviews, KPI prioritization, dashboard wireframing, and data pipeline planning across three source systems. The Tableau build used five structured data tables with inter-sheet relationships, calculated fields for fail rate, throughput, and budget variance, and global filter actions to enable cross-dashboard interactivity.
+
+**Technology:** Tableau Public, Microsoft Excel.
+
+**Skills:** Process mapping, KPI design, dashboard design, data modeling, stakeholder communication, Excel data pipeline structuring, Tableau relationships and calculated fields.
+
+**Results:** Analysis revealed that Testing/Repair is the primary operational bottleneck, accounting for the highest labor hours across all four channels. The testing fail rate averaged 51.4%, indicating significant upstream sorting inefficiencies. Financial analysis showed that the client averaged a net loss of $51,616 annually since 2011, with a catastrophic outlier loss of $707,431 in 2019 (6x any other year), and that contributions and grants have been essential to keeping the organization net-positive in most years. The dashboard framework positions the client to shift from intuition-based to data-driven decision making ahead of their self-sustainability goal.
+
 ### iPSC Cell Line Bank – Product Pricing & Revenue Model
 
 **File:** [XYZ University iPSC_CellBank_Pricing.xlsx](https://github.com/wchai0721/Projects/blob/main/XYZ%20University_iPSC_CellBank_Pricing.xlsx)
@@ -115,22 +148,6 @@ Goal: To provide a structured, cross-functional project management tool for trac
 **Skills:** Project management, stage-gate product development, cross-functional coordination, budget tracking, research core operations, academic technology commercialization.
 
 **Results:** Across 10 planned service lines, the tracker identifies approximately $294K in total program budget, with early-stage products concentrated in Phases 1 and 2. Custom reprogramming and characterization services are furthest along at 55% and 70% complete respectively, representing the fastest path to revenue. Higher-complexity offerings — assembloid differentiation and international distribution — are staged to Phases 3 and 4 to allow supporting infrastructure (IP framework, export licensing, QA systems) to mature in parallel with scientific readiness.
-
-### GreenTech Recycling Operations Dashboard
-
-**Code:** not applicable (Tableau workbook — .twbx)
-
-**Data source:** Simulated operational data modeled from client ERP, time-tracking, and financial records.
-
-**Goal:** To surface operational bottlenecks, labor inefficiencies, and financial performance gaps across an electronics recycling workflow, and to replace manual Excel-based reporting with a dynamic, decision-ready dashboard.
-
-**Description:** This project was completed as part of a Carlson Consulting Enterprise (CCE) engagement through the University of Minnesota's Carlson Analytics Lab. Working directly with the client's CFO, the team mapped the full operational workflow from receiving through teardown and resale, identified key performance indicators across four process stages (Receiving, Sort, Testing/Repair, and Teardown), and designed a three-dashboard Tableau prototype to replace fragmented manual reporting. The project involved process mapping, stakeholder interviews, KPI prioritization, dashboard wireframing, and data pipeline planning across three source systems. The Tableau build used five structured data tables with inter-sheet relationships, calculated fields for fail rate, throughput, and budget variance, and global filter actions to enable cross-dashboard interactivity.
-
-**Technology:** Tableau Desktop, Microsoft Excel, openpyxl.
-
-**Skills:** Process mapping, KPI design, dashboard design, data modeling, stakeholder communication, Excel data pipeline structuring, Tableau relationships and calculated fields.
-
-**Results:** Analysis revealed that Testing/Repair is the primary operational bottleneck, accounting for the highest labor hours across all four channels. The testing fail rate averaged 51.4%, indicating significant upstream sorting inefficiencies. Financial analysis showed that the client averaged a net loss of $51,616 annually since 2011, with a catastrophic outlier loss of $707,431 in 2019 (6x any other year), and that contributions and grants have been essential to keeping the organization net-positive in most years. The dashboard framework positions the client to shift from intuition-based to data-driven decision making ahead of their self-sustainability goal.
 
 ## Education
 
