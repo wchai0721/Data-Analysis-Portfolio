@@ -19,6 +19,7 @@ This repository showcases my skills, projects, and ongoing progress in Data Anal
     - [SCI Clinical Trial Landscape Analysis](https://github.com/wchai0721/Data-Analysis-Portfolio/blob/main/README.md#spinal-cord-injury-clinical-trial-landscape-analysis)
     - [Oncology In Vitro Clinical Trial Landscape Analysis](https://github.com/wchai0721/Data-Analysis-Portfolio/blob/main/README.md#oncology-in-vitro-clinical-trial-landscape-analysis)
   - Python
+    - [Dopamine Menu Generator](url)
   - SQL
   - Excel
   - Tableau
@@ -66,6 +67,22 @@ This repository showcases my skills, projects, and ongoing progress in Data Anal
 **Skills:** SQL querying, relational database joins, cohort definition, exploratory data analysis, data visualization, competitive intelligence analysis.
 
 **Results:** Analysis revealed that academic and government institutions dominate the oncology in vitro trial landscape (70.1% other academic, 23.9% NIH), with industry sponsors accounting for only 5.9% of registered trials. Biological and drug interventions lead equally (~229 and 225 trials respectively), with biological trials showing the strongest post-2015 growth trajectory driven by immunotherapy and cell therapy pipelines. Trial volume tripled between 2015 and 2023, peaking at 61 registrations. The US and China account for over half of all trial activity, with emerging Asia-Pacific presence in South Korea, Singapore, and Taiwan.
+
+### Dopamine Menu Generator
+
+**Code:** [dopamine-menu/](https://github.com/wchai0721/Projects/tree/main/dopamine-menu) · [README](https://github.com/wchai0721/Projects/blob/main/dopamine-menu/README.md)
+
+**Data source:** Primary literature (positive psychology research, 2015–2023)
+
+**Goal:** To generate personalized, evidence-backed restorative activity recommendations based on a user's current mood, available time, and energy level.
+
+**Description:** The project built a two-interface Python tool — a CLI and a Flask web app — that scores and ranks restorative activities using a custom recommendation engine. Each activity in the database is grounded in positive psychology research (Seligman, Csikszentmihalyi, Fredrickson, Pennebaker, and others) and tagged with psychological mechanism, mood affinities, energy requirements, and a concrete behavioral tip. The scoring engine applies weighted bonuses for mood match, energy alignment, and time fit, with hard filters that remove incompatible activities before ranking.
+
+**Technology:** Python, Flask, HTML/CSS/JavaScript.
+
+**Skills:** Recommendation system design, scoring algorithm development, REST API design, frontend development, literature synthesis.
+
+**Results:** The tool covers 25+ activities across 7 categories (Movement, Creative, Social, Rest, Learning, Meaning, Sensory), with each recommendation linked to a peer-reviewed mechanism and a specific, actionable tip. The web interface allows real-time filtering by mood, time, energy, and preferred category, returning a ranked menu in under one second.
 
 ### GreenTech Recycling Operations Dashboard
 
