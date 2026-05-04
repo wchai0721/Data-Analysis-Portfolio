@@ -22,6 +22,8 @@ This repository showcases my skills, projects, and ongoing progress in Data Anal
     - [Dopamine Menu Generator](https://github.com/wchai0721/Data-Analysis-Portfolio/blob/main/README.md#dopamine-menu-generator)
   - SQL
   - Excel
+    - [iPSC Cell Line Bank – Product Pricing & Revenue Model](url)
+    - [New Product Introduction (NPI) Launch Tracker](url)
   - Tableau
     - [GreenTech Recycling Operations Dashboard](https://github.com/wchai0721/Data-Analysis-Portfolio/blob/main/README.md#greentech-recycling-operations-dashboard)
   - Power BI
@@ -83,6 +85,36 @@ This repository showcases my skills, projects, and ongoing progress in Data Anal
 **Skills:** Recommendation system design, scoring algorithm development, REST API design, frontend development, literature synthesis.
 
 **Results:** The tool covers 25+ activities across 7 categories (Movement, Creative, Social, Rest, Learning, Meaning, Sensory), with each recommendation linked to a peer-reviewed mechanism and a specific, actionable tip. The web interface allows real-time filtering by mood, time, energy, and preferred category, returning a ranked menu in under one second.
+
+### iPSC Cell Line Bank – Product Pricing & Revenue Model
+
+**File:** XYZ University iPSC_CellBank_Pricing.xlsx
+
+**Data source:** Cost estimates derived from published stem cell core pricing surveys and vendor catalogs (StemCell Technologies, Thermo Fisher Scientific, BioLife Solutions); reagent and labor rates benchmarked against WiCell and Cedars-Sinai iPSC Core published fee schedules
+
+**Goal:** To develop a scenario-based pricing framework for a university-operated induced pluripotent stem cell (iPSC) bank, enabling cost-recovery planning, tiered access pricing, and multi-year revenue forecasting as the program scales toward a service core model.
+
+**Description:** The model covers 10 proposed product and service lines spanning banked iPSC vials, custom reprogramming, characterization packages, exosome harvest services, and spinal cord assembloid differentiation. Cost assumptions include a labor rate of $45/hr, reagent and media costs of $95/vial sourced from StemCell Technologies catalog pricing, cryopreservation supply costs of $18/vial, liquid nitrogen storage at $12/vial/year, and a 20% overhead allocation. These inputs feed a global assumption layer that propagates automatically through all pricing calculations. Regional pricing tiers stratify customers from internal academic users to large pharmaceutical companies. A five-year scenario analysis models revenue and gross profit across conservative, base, optimistic, scale, and mature growth trajectories. A companion NPI tracker sheet manages the stage-gate launch pipeline for all 10 product lines, with milestone definitions, cross-functional ownership, and live budget tracking.
+
+**Technology:** Microsoft Excel.
+
+**Skills:** Financial modeling, pricing strategy, scenario analysis, product launch planning, research core operations.
+Results: At base-case assumptions (45% target gross margin), the bank projects approximately $370K in annual revenue across all service lines, with the conservative Year 1 scenario yielding roughly $185K. Biological and cell-based services — including assembloid differentiation and exosome harvest — represent high-margin opportunities with strong growth potential as preclinical interest in cell-based therapeutics continues to expand.
+
+### iPSC Cell Line Bank – New Product Introduction (NPI) Launch Tracker
+
+**File:** XYZ University iPSC_CellBank_NPI.xlsx
+
+**Data source:** Stage-gate framework adapted from standard new product introduction methodology; milestone criteria informed by published academic core facility launch guidelines and FDA biological product development guidance
+Goal: To provide a structured, cross-functional project management tool for tracking the phased launch of 10 new product and service lines within a university-operated iPSC cell line bank, from initial feasibility through full commercial scale.
+
+**Description:** The tracker maps each product line across a four-phase stage-gate framework — Feasibility, Development, Pilot Launch, and Scale — with defined exit criteria, named approvers, and required documentation at each gate. For each of the 10 service lines, the tracker captures the assigned lead and cross-functional team (spanning research, IRB, biosafety, legal, finance, QA, and facilities), planned start and target launch dates, milestone gate definitions, live status badges, percent completion, and budget versus actual spend. A milestone gate definitions table codifies institutional sign-off requirements at each phase transition, including IRB pre-review, SOP validation, IP clearance through technology transfer, and export control compliance for international distribution. A budget dashboard auto-aggregates spend utilization, phase distribution, and average completion rate across the full product portfolio.
+
+**Technology:** Microsoft Excel (dynamic formula modeling, conditional formatting, stage-gate dashboard)
+
+**Skills:** Project management, stage-gate product development, cross-functional coordination, budget tracking, research core operations, academic technology commercialization.
+
+**Results:** Across 10 planned service lines, the tracker identifies approximately $294K in total program budget, with early-stage products concentrated in Phases 1 and 2. Custom reprogramming and characterization services are furthest along at 55% and 70% complete respectively, representing the fastest path to revenue. Higher-complexity offerings — assembloid differentiation and international distribution — are staged to Phases 3 and 4 to allow supporting infrastructure (IP framework, export licensing, QA systems) to mature in parallel with scientific readiness.
 
 ### GreenTech Recycling Operations Dashboard
 
