@@ -13,26 +13,23 @@ This repository showcases my skills, projects, and ongoing progress in Data Anal
 
 ## Table of Contents
 
-- [About](#about)
-- [Projects](#projects)
-  - Python + SQL
-    - [SCI Clinical Trial Landscape Analysis](https://github.com/wchai0721/Data-Analysis-Portfolio/blob/main/README.md#spinal-cord-injury-clinical-trial-landscape-analysis)
-    - [Oncology In Vitro Clinical Trial Landscape Analysis](https://github.com/wchai0721/Data-Analysis-Portfolio/blob/main/README.md#oncology-in-vitro-clinical-trial-landscape-analysis)
-  - Python + Web
-    - [Dopamine Menu Generator](https://github.com/wchai0721/Data-Analysis-Portfolio/blob/main/README.md#dopamine-menu-generator)
-  - Python + SQL + Tableau
-    - [Pittsburgh Trauma Medical Center — ED Shift Analytics](https://github.com/wchai0721/Data-Analysis-Portfolio/blob/main/README.md#pittsburgh-trauma-medical-center--ed-shift-analytics)
- - Excel + Tableau
-    - [GreenTech Recycling Operations Dashboard](https://github.com/wchai0721/Data-Analysis-Portfolio/blob/main/README.md#greentech-recycling-operations-dashboard)
-  - Excel
-    - [iPSC Cell Line Bank – Product Pricing & Revenue Model](https://github.com/wchai0721/Data-Analysis-Portfolio/blob/main/README.md#ipsc-cell-line-bank--product-pricing--revenue-model)
-    - [iPSC Cell Line Bank – New Product Introduction (NPI) Launch Tracker](https://github.com/wchai0721/Data-Analysis-Portfolio/blob/main/README.md#ipsc-cell-line-bank--new-product-introduction-npi-launch-tracker)
-  - Power BI
-  - Notion
-  - R
-  - Data cleaning
-  - Data visualization
-  - Statistical analysis
+[About](#about)
+[Projects](#projects)
+- Python + SQL
+  - [SCI Clinical Trial Landscape Analysis](https://github.com/wchai0721/Data-Analysis-Portfolio/blob/main/README.md#spinal-cord-injury-clinical-trial-landscape-analysis)
+  - [Oncology In Vitro Clinical Trial Landscape Analysis](https://github.com/wchai0721/Data-Analysis-Portfolio/blob/main/README.md#oncology-in-vitro-clinical-trial-landscape-analysis)
+- Python + Web
+  - [Dopamine Menu Generator](https://github.com/wchai0721/Data-Analysis-Portfolio/blob/main/README.md#dopamine-menu-generator)
+- Python + SQL + Tableau
+   - [Pittsburgh Trauma Medical Center — ED Shift Analytics](https://github.com/wchai0721/Data-Analysis-Portfolio/blob/main/README.md#pittsburgh-trauma-medical-center--ed-shift-analytics)
+- Excel + Tableau
+  - [GreenTech Recycling Operations Dashboard](https://github.com/wchai0721/Data-Analysis-Portfolio/blob/main/README.md#greentech-recycling-operations-dashboard)
+- Excel
+   - [iPSC Cell Line Bank – Product Pricing & Revenue Model](https://github.com/wchai0721/Data-Analysis-Portfolio/blob/main/README.md#ipsc-cell-line-bank--product-pricing--revenue-model)
+   - [iPSC Cell Line Bank – New Product Introduction (NPI) Launch Tracker](https://github.com/wchai0721/Data-Analysis-Portfolio/blob/main/README.md#ipsc-cell-line-bank--new-product-introduction-npi-launch-tracker)
+- Power BI
+- Notion
+- R
 - [Education](#education)
 - [Certificates](#certificates)
 - [Contact](#contact)
