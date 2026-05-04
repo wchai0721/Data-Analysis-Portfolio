@@ -92,7 +92,7 @@ This repository showcases my skills, projects, and ongoing progress in Data Anal
 
 **Code:** [pitt-ed-analytics](https://github.com/wchai0721/Projects/tree/main/pitt-ed-analytics)
 
-**File:** [.twbx](https://public.tableau.com/shared/QP3QXGT9Q?:display_count=n&:origin=viz_share_link) [Dashboard: ED Shift Analytics](https://github.com/wchai0721/Projects/blob/main/pitt-ed-analytics/pitt-ed-shift-analytics.png)
+**File:** [.twbx](https://public.tableau.com/shared/QP3QXGT9Q?:display_count=n&:origin=viz_share_link) · [Dashboard: ED Shift Analytics](https://github.com/wchai0721/Projects/blob/main/pitt-ed-analytics/pitt-ed-shift-analytics.png)
 
 **Goal:** To model emergency department patient flow across a 15-hour trauma shift and surface operational insights around wait times, care bottlenecks, staff load, and disposition outcomes.
 
