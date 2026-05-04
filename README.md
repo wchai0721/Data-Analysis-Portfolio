@@ -32,11 +32,11 @@ This repository showcases my skills, projects, and ongoing progress in Data Anal
 - Notion
 - R
   
-- [Education](#education)
+[Education](#education)
   
-- [Certificates](#certificates)
+[Certificates](#certificates)
   
-- [Contact](#contact)
+[Contact](#contact)
 
 ## Projects
 
