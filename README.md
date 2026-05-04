@@ -21,7 +21,7 @@ This repository showcases my skills, projects, and ongoing progress in Data Anal
   - Python + Web
     - [Dopamine Menu Generator](https://github.com/wchai0721/Data-Analysis-Portfolio/blob/main/README.md#dopamine-menu-generator)
   - Python + SQL + Tableau
-    - [Pittsburgh Trauma Medical Center — ED Shift Analytics](url)
+    - [Pittsburgh Trauma Medical Center — ED Shift Analytics](https://github.com/wchai0721/Data-Analysis-Portfolio/blob/main/README.md#pittsburgh-trauma-medical-center--ed-shift-analytics)
  - Excel + Tableau
     - [GreenTech Recycling Operations Dashboard](https://github.com/wchai0721/Data-Analysis-Portfolio/blob/main/README.md#greentech-recycling-operations-dashboard)
   - Excel
