@@ -23,7 +23,7 @@ This repository showcases my skills, projects, and ongoing progress in Data Anal
   - SQL
   - Excel
     - [iPSC Cell Line Bank – Product Pricing & Revenue Model](https://github.com/wchai0721/Data-Analysis-Portfolio/blob/main/README.md#ipsc-cell-line-bank--product-pricing--revenue-model)
-    - [New Product Introduction (NPI) Launch Tracker](https://github.com/wchai0721/Data-Analysis-Portfolio/blob/main/README.md#ipsc-cell-line-bank--new-product-introduction-npi-launch-tracker)
+    - [iPSC Cell Line Bank – New Product Introduction (NPI) Launch Tracker](https://github.com/wchai0721/Data-Analysis-Portfolio/blob/main/README.md#ipsc-cell-line-bank--new-product-introduction-npi-launch-tracker)
   - Tableau
     - [GreenTech Recycling Operations Dashboard](https://github.com/wchai0721/Data-Analysis-Portfolio/blob/main/README.md#greentech-recycling-operations-dashboard)
   - Power BI
@@ -96,7 +96,7 @@ This repository showcases my skills, projects, and ongoing progress in Data Anal
 
 **Description:** The model covers 10 proposed product and service lines spanning banked iPSC vials, custom reprogramming, characterization packages, exosome harvest services, and spinal cord assembloid differentiation. Cost assumptions include a labor rate of $45/hr, reagent and media costs of $95/vial sourced from StemCell Technologies catalog pricing, cryopreservation supply costs of $18/vial, liquid nitrogen storage at $12/vial/year, and a 20% overhead allocation. These inputs feed a global assumption layer that propagates automatically through all pricing calculations. Regional pricing tiers stratify customers from internal academic users to large pharmaceutical companies. A five-year scenario analysis models revenue and gross profit across conservative, base, optimistic, scale, and mature growth trajectories. A companion NPI tracker sheet manages the stage-gate launch pipeline for all 10 product lines, with milestone definitions, cross-functional ownership, and live budget tracking.
 
-**Technology:** Microsoft Excel.
+**Technology:** Microsoft Excel (dynamic formula modeling, conditional formatting, scenario analysis, tiered pricing dashboard).
 
 **Skills:** Financial modeling, pricing strategy, scenario analysis, product launch planning, research core operations.
 Results: At base-case assumptions (45% target gross margin), the bank projects approximately $370K in annual revenue across all service lines, with the conservative Year 1 scenario yielding roughly $185K. Biological and cell-based services — including assembloid differentiation and exosome harvest — represent high-margin opportunities with strong growth potential as preclinical interest in cell-based therapeutics continues to expand.
@@ -110,7 +110,7 @@ Goal: To provide a structured, cross-functional project management tool for trac
 
 **Description:** The tracker maps each product line across a four-phase stage-gate framework — Feasibility, Development, Pilot Launch, and Scale — with defined exit criteria, named approvers, and required documentation at each gate. For each of the 10 service lines, the tracker captures the assigned lead and cross-functional team (spanning research, IRB, biosafety, legal, finance, QA, and facilities), planned start and target launch dates, milestone gate definitions, live status badges, percent completion, and budget versus actual spend. A milestone gate definitions table codifies institutional sign-off requirements at each phase transition, including IRB pre-review, SOP validation, IP clearance through technology transfer, and export control compliance for international distribution. A budget dashboard auto-aggregates spend utilization, phase distribution, and average completion rate across the full product portfolio.
 
-**Technology:** Microsoft Excel (dynamic formula modeling, conditional formatting, stage-gate dashboard)
+**Technology:** Microsoft Excel (dynamic formula modeling, conditional formatting, stage-gate dashboard).
 
 **Skills:** Project management, stage-gate product development, cross-functional coordination, budget tracking, research core operations, academic technology commercialization.
 
