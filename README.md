@@ -23,7 +23,7 @@ This repository showcases my skills, projects, and ongoing progress in Data Anal
   - SQL
   - Excel
   - Tableau
-    - GreenTech Recycling Operations Dashboard
+    - [GreenTech Recycling Operations Dashboard](https://github.com/wchai0721/Data-Analysis-Portfolio/blob/main/README.md#greentech-recycling-operations-dashboard)
   - Power BI
   - Notion
   - R
