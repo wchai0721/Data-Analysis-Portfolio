@@ -90,9 +90,9 @@ This repository showcases my skills, projects, and ongoing progress in Data Anal
 
 ### Pittsburgh Trauma Medical Center — ED Shift Analytics
 
-**Code:** pitt-ed-analytics (GitHub)
+**Code:** [pitt-ed-analytics](https://github.com/wchai0721/Projects/tree/main/pitt-ed-analytics)
 
-**Dashboard:** [Tableau Public](https://public.tableau.com/shared/QP3QXGT9Q?:display_count=n&:origin=viz_share_link)
+**File:** [.twbx](https://public.tableau.com/shared/QP3QXGT9Q?:display_count=n&:origin=viz_share_link) [Dashboard: ED Shift Analytics](https://github.com/wchai0721/Projects/blob/main/pitt-ed-analytics/pitt-ed-shift-analytics.png)
 
 **Goal:** To model emergency department patient flow across a 15-hour trauma shift and surface operational insights around wait times, care bottlenecks, staff load, and disposition outcomes.
 
@@ -106,7 +106,7 @@ This repository showcases my skills, projects, and ongoing progress in Data Anal
 
 ### GreenTech Recycling Operations Dashboard
 
-**File:** Excel here, Tableau link here
+**File:** [.twbx](https://public.tableau.com/views/greentech-recycling/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) · [Dashboard: GreenTech Recycling Operations](PNG url here) · [GreenTech Recycling Data (Excel)](https://github.com/wchai0721/Projects/blob/main/GreenTech_Recycling_Tableau_Data.xlsx)
 
 **Data source:** Simulated operational data modeled from client ERP, time-tracking, and financial records.
 
