@@ -22,7 +22,7 @@ This repository showcases my skills, projects, and ongoing progress in Data Anal
     - [Dopamine Menu Generator](https://github.com/wchai0721/Data-Analysis-Portfolio/blob/main/README.md#dopamine-menu-generator)
   - SQL
   - Excel
-    - [iPSC Cell Line Bank – Product Pricing & Revenue Model](url)
+    - [iPSC Cell Line Bank – Product Pricing & Revenue Model](https://github.com/wchai0721/Data-Analysis-Portfolio/blob/main/README.md#ipsc-cell-line-bank--product-pricing--revenue-model)
     - [New Product Introduction (NPI) Launch Tracker](url)
   - Tableau
     - [GreenTech Recycling Operations Dashboard](https://github.com/wchai0721/Data-Analysis-Portfolio/blob/main/README.md#greentech-recycling-operations-dashboard)
