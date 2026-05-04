@@ -18,7 +18,7 @@ This repository showcases my skills, projects, and ongoing progress in Data Anal
   - Python + SQL
     - [SCI Clinical Trial Landscape Analysis](https://github.com/wchai0721/Data-Analysis-Portfolio/blob/main/README.md#spinal-cord-injury-clinical-trial-landscape-analysis)
     - [Oncology In Vitro Clinical Trial Landscape Analysis](https://github.com/wchai0721/Data-Analysis-Portfolio/blob/main/README.md#oncology-in-vitro-clinical-trial-landscape-analysis)
-  - Python
+  - Python + Web
     - [Dopamine Menu Generator](https://github.com/wchai0721/Data-Analysis-Portfolio/blob/main/README.md#dopamine-menu-generator)
   - SQL
   - Excel
