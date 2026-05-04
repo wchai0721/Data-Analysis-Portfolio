@@ -88,7 +88,7 @@ This repository showcases my skills, projects, and ongoing progress in Data Anal
 
 ### iPSC Cell Line Bank – Product Pricing & Revenue Model
 
-**File:** XYZ University iPSC_CellBank_Pricing.xlsx
+**File:** [XYZ University iPSC_CellBank_Pricing.xlsx](https://github.com/wchai0721/Projects/blob/main/XYZ%20University_iPSC_CellBank_Pricing.xlsx)
 
 **Data source:** Cost estimates derived from published stem cell core pricing surveys and vendor catalogs (StemCell Technologies, Thermo Fisher Scientific, BioLife Solutions); reagent and labor rates benchmarked against WiCell and Cedars-Sinai iPSC Core published fee schedules
 
@@ -103,7 +103,7 @@ Results: At base-case assumptions (45% target gross margin), the bank projects a
 
 ### iPSC Cell Line Bank – New Product Introduction (NPI) Launch Tracker
 
-**File:** XYZ University iPSC_CellBank_NPI.xlsx
+**File:** [XYZ University iPSC_CellBank_NPI.xlsx](https://github.com/wchai0721/Projects/blob/main/XYZ%20University_iPSC_CellBank_NPI.xlsx)
 
 **Data source:** Stage-gate framework adapted from standard new product introduction methodology; milestone criteria informed by published academic core facility launch guidelines and FDA biological product development guidance
 Goal: To provide a structured, cross-functional project management tool for tracking the phased launch of 10 new product and service lines within a university-operated iPSC cell line bank, from initial feasibility through full commercial scale.
