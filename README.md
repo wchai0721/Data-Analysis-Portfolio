@@ -1,15 +1,13 @@
 # Wen Chai - Data Analyst Portfolio
 ## About
 
-Hi, I'm Wen! I’m a neuroscientist and product manager with a strong analytical background in stem cell biology, neuroscience, and translational research. I’m currently expanding my skills in data analytics and data science, with the goal of applying my scientific training, problem-solving mindset, and technical curiosity to uncover meaningful insights from complex datasets.
+Hi, I'm Wen! I'm a healthcare strategy and analytics professional with 15+ years of experience spanning consulting, biotech venture building, and translational research. I currently work as a Product Owner and Neuroscientist at the Parr Lab/University of Minnesota (UMN) Neurosurgery, where I bridge the bench and the boardroom: designing organoid experiments and managing cell banks used across labs, while also authoring federal and state grant proposals (e.g. R01, R21, SCITBI) and translating multi-institutional research into executive briefings, roadmaps, and funding narratives for senior leaders across Mayo Clinic, UMN, and industry partners.
 
-Throughout my research and professional experience, I have developed a strong foundation in experimental design, data interpretation, statistical thinking, scientific communication, and project management. I have worked with complex biological data, managed multi-step research workflows, analyzed experimental outcomes, and translated technical findings into clear reports, presentations, and strategic recommendations.
+My background sits at the intersection of science, business, and analytics. I hold an MBA in Business Analytics and Medical Industry Leadership from the Carlson School of Management and have applied that training across healthcare consulting (Slalom), startup commercialization (Sarcio), and federally funded research programs. I'm fluent working across R&D, clinical, commercial, and operational teams — structuring ambiguous problems, synthesizing complex data, and communicating clearly to stakeholders at every level.
 
-Beyond my professional work, I enjoy learning new data analysis tools, building practical systems in Notion, exploring creative ways to visualize information, and continuously improving my technical skills. I’m especially interested in the intersection of science, data, business, and storytelling.
+This repository reflects my hands-on work in data analysis, visualization, and modeling — built to complement the strategic and scientific foundation I've developed throughout my career. I'm especially interested in projects at the intersection of healthcare, data, and decision-making.
 
 My CV is available as a PDF.
-
-This repository showcases my skills, projects, and ongoing progress in Data Analytics and Data Science.
 
 ## Table of Contents
 
