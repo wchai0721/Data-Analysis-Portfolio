@@ -7,7 +7,7 @@ My background sits at the intersection of science, business, and analytics. I ho
 
 This repository reflects my hands-on work in data analysis, visualization, and modeling — built to complement the strategic and scientific foundation I've developed throughout my career. I'm especially interested in projects at the intersection of healthcare, data, and decision-making.
 
-My CV is available as a PDF.
+My CV is available as a [website](https://wchai0721.github.io/wenchai/) / PDF.
 
 ## Table of Contents
 
