@@ -131,7 +131,8 @@ My CV is available as a PDF.
 **Technology:** Microsoft Excel (dynamic formula modeling, conditional formatting, scenario analysis, tiered pricing dashboard).
 
 **Skills:** Financial modeling, pricing strategy, scenario analysis, product launch planning, research core operations.
-Results: At base-case assumptions (45% target gross margin), the bank projects approximately $370K in annual revenue across all service lines, with the conservative Year 1 scenario yielding roughly $185K. Biological and cell-based services — including assembloid differentiation and exosome harvest — represent high-margin opportunities with strong growth potential as preclinical interest in cell-based therapeutics continues to expand.
+
+**Results:** At base-case assumptions (45% target gross margin), the bank projects approximately $370K in annual revenue across all service lines, with the conservative Year 1 scenario yielding roughly $185K. Biological and cell-based services — including assembloid differentiation and exosome harvest — represent high-margin opportunities with strong growth potential as preclinical interest in cell-based therapeutics continues to expand.
 
 ### iPSC Cell Line Bank – New Product Introduction (NPI) Launch Tracker
 
