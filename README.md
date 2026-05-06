@@ -74,7 +74,7 @@ My CV is available as a PDF.
 
 **Code:** [dopamine-menu/](https://github.com/wchai0721/Projects/tree/main/dopamine-menu) · [README](https://github.com/wchai0721/Projects/blob/main/dopamine-menu/README.md) · [APP](https://dopamine-menu-o3nl.onrender.com/)
 
-**Data source:** Primary literature (positive psychology research, 2015–2023)
+**Research basis:** Primary literature (positive psychology research, 2015–2023)
 
 **Goal:** To generate personalized, evidence-backed restorative activity recommendations based on a user's current mood, available time, and energy level.
 
