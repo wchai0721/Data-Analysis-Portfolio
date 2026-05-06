@@ -72,7 +72,7 @@ My CV is available as a PDF.
 
 ### Dopamine Menu Generator
 
-**Code:** [dopamine-menu/](https://github.com/wchai0721/Projects/tree/main/dopamine-menu) · [README](https://github.com/wchai0721/Projects/blob/main/dopamine-menu/README.md)
+**Code:** [dopamine-menu/](https://github.com/wchai0721/Projects/tree/main/dopamine-menu) · [README](https://github.com/wchai0721/Projects/blob/main/dopamine-menu/README.md) · [APP](https://dopamine-menu-o3nl.onrender.com/)
 
 **Data source:** Primary literature (positive psychology research, 2015–2023)
 
@@ -81,6 +81,8 @@ My CV is available as a PDF.
 **Description:** The project built a two-interface Python tool — a CLI and a Flask web app — that scores and ranks restorative activities using a custom recommendation engine. Each activity in the database is grounded in positive psychology research (Seligman, Csikszentmihalyi, Fredrickson, Pennebaker, and others) and tagged with psychological mechanism, mood affinities, energy requirements, and a concrete behavioral tip. The scoring engine applies weighted bonuses for mood match, energy alignment, and time fit, with hard filters that remove incompatible activities before ranking.
 
 **Technology:** Python, Flask, HTML/CSS/JavaScript.
+
+**Deployment:** Render (live web app).
 
 **Skills:** Recommendation system design, scoring algorithm development, REST API design, frontend development, literature synthesis.
 
