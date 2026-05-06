@@ -90,7 +90,7 @@ My CV is available as a PDF.
 
 ### Pittsburgh Trauma Medical Center — ED Shift Analytics
 
-**Code:** [pitt-ed-analytics](https://github.com/wchai0721/Projects/tree/main/pitt-ed-analytics)
+**Code:** [pitt-ed-analytics](https://github.com/wchai0721/Projects/blob/main/pitt-ed-analytics)
 
 **File(s):** [.twbx](https://public.tableau.com/shared/QP3QXGT9Q?:display_count=n&:origin=viz_share_link)
 
@@ -114,7 +114,7 @@ My CV is available as a PDF.
 
 **Description:** This project was completed as part of a Carlson Consulting Enterprise (CCE) engagement through the University of Minnesota's Carlson Analytics Lab. Working directly with the client's CFO, the team mapped the full operational workflow from receiving through teardown and resale, identified key performance indicators across four process stages (Receiving, Sort, Testing/Repair, and Teardown), and designed a three-dashboard Tableau prototype to replace fragmented manual reporting. The project involved process mapping, stakeholder interviews, KPI prioritization, dashboard wireframing, and data pipeline planning across three source systems. The Tableau build used five structured data tables with inter-sheet relationships, calculated fields for fail rate, throughput, and budget variance, and global filter actions to enable cross-dashboard interactivity.
 
-**Technology:** Tableau Public, Microsoft Excel.
+**Technology:** Tableau Public, Microsoft Excel (data structure & organization, data reshaping, formulas, data formatting, data pipeline design).
 
 **Skills:** Process mapping, KPI design, dashboard design, data modeling, stakeholder communication, Excel data pipeline structuring, Tableau relationships and calculated fields.
 
